@@ -1,17 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
-
-<h1
-
 <h1 align="center">
   Hello, I'm Pavel
   :wave:
 </h1>
-<h1 align="center">
+<h2 align="center">
   Welcome to my GitHub profile!
   :octocat:
-</h1>
+</h2>
 <!--
 **PavelM2205/PavelM2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
